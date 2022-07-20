@@ -238,11 +238,6 @@ img {
   grid-template-columns: repeat(auto-fit, minmax(min(21rem, 100%), 1fr));
   gap: 1rem;
 }
-.main .single-article {
-  transition-duration: 0.3s;
-  transition-timing-function: ease;
-  transition-property: box-shadow;
-}
 .main .single-article img {
   width: 100%;
   border-top-left-radius: 0.625rem;
@@ -282,9 +277,6 @@ img {
 .main .single-article .article-info {
   gap: 2rem;
   color: rgba(22, 22, 22, 0.7);
-}
-.main .single-article:hover {
-  box-shadow: 0 0 0.5rem #e8e8e8;
 }
 .main .single-article:hover .article-details {
   background-color: #e8e8e8;
