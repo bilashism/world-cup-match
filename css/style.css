@@ -1,0 +1,18 @@
+/*! 
+Table of contents
+-----------------
+
+1. global styles
+
+*/
+/* #region - start of - global styles */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+/* #endregion - end of - global styles */
